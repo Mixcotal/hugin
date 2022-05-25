@@ -1,0 +1,6 @@
+# ignore all exept
+*
+!.py
+!README.md
+!requirements.txt
+!.gitignore
